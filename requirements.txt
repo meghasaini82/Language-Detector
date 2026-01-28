@@ -1,0 +1,4 @@
+flask
+gunicorn
+langdetect
+scikit-learn
